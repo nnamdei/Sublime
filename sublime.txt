@@ -1,12 +1,13 @@
-•	From the Start menu and click Computer.
-•	On the computer dashboard search for Program Files (x86), locate and click Sublime Text 3 folder among the displayed items.
-•	Right click on the Sublime Text 3 arrow in the first row on the page.
-•	Select Copy Address.
-•	From the second line menu at the top of the computer dashboard, click System properties from the list.
-•	On the top left corner of the displayed page, click Advanced System Setting.
-•	Select Advanced from the listed items in the first row on the page.
-•	Click Environment Variables positioned at the bottom right on the page. 
-•	Locate Path from the drop down items in System Variables box situated at the bottom of the page, highlight and click edit. 
-•	In the Variable Value tab, type Semi-Colon (;) at the extreme end and paste the copied Sublime Text 3 address. 
+â€¢	From the Start menu and click Computer.
+â€¢	On the computer dashboard search for Program Files (x86), locate and click Sublime Text 3 folder among the displayed items.
+â€¢	Right click on the Sublime Text 3 in the address bar.
+â€¢	Select Copy Address and navigate to my computer
+â€¢ click System properties from the list.
+â€¢	On the top left corner of the displayed page, click Advanced System Setting.
+â€¢	Select Advanced from the listed items in the first row on the page.
+â€¢	Click Environment Variables positioned at the bottom right on the page. 
+â€¢	Locate Path from the drop down items in System Variables box situated at the bottom of the page, highlight and click edit. 
+â€¢	In the Variable Value tab, type Semi-Colon (;) at the end so as to seperate different paths and paste the copied Sublime Text 3 address.
+- click ok to save.
 
  
