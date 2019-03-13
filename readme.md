@@ -1,0 +1,1 @@
+The essence of the repository is to describe the steps taken to add sublime text to path and process to use sublime text as default editor on command line.
